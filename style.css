@@ -5,3 +5,37 @@
 }
 
 /* write all your rules below */
+h1{
+    background-color: pink;
+    border: solid red 5px;
+    margin: 50px ;
+}
+
+.box1-style{
+    width: 100vw;
+    height: 40vh;
+    background-color: aqua;
+}
+
+.box2-style{
+    width: 100vw;
+    height: 20vh;
+    background-color: yellow;
+    border: 10px solid pink;
+    margin: 20px;
+    padding: 10px;
+    box-sizing: border-box;
+}
+
+.blue{
+    color: blue;
+}
+
+.green{
+    color: green;
+}
+
+.purple{
+    color: purple;
+}
+
